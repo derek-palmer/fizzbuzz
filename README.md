@@ -10,7 +10,7 @@ Write a program that prints the numbers from 1 to 100. But for multiples of thre
 
 ##Languages:
 
-- [ ] Ruby / Rails
+- [X] Ruby / Rails
 - [ ] Python
 - [ ] Javascript
 - [ ] Coldfusion
