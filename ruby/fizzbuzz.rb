@@ -49,12 +49,12 @@ end
 print "\n\n\n"
 
 1.upto(100) do |i|
-  if i % 3 == 0
-    puts 'Fizz'.red
-  elsif i % 5 ==0
-    puts 'Buzz'.yellow
-  elsif i % 3 == 0 and i % 5 ==0
+  if i % 3 == 0 and i % 5 == 0
     puts 'FizzBuzz'.blue
+  elsif i % 5 == 0
+    puts 'Buzz'.yellow
+  elsif i % 3 == 0
+    puts 'Fizz'.red
   else
     puts i
   end
