@@ -12,8 +12,7 @@ Write a program that prints the numbers from 1 to 100. But for multiples of thre
 
 - [X] Ruby / Rails
 - [X] Python
-- [ ] Javascript
-- [ ] Coldfusion
+- [X] Javascript
 - [ ] PHP
 - [ ] Java
 - [ ] NodeJS
