@@ -10,10 +10,10 @@ from termcolor import colored, cprint
 
 for num in range(1, 101):
     if num % 3 == 0 and num % 5 == 0:
-        cprint('FizzBuzz', 'red')
+        cprint('FizzBuzz', 'blue')
     if num % 3 == 0:
-        cprint('Fizz', 'blue')
+        cprint('Fizz', 'red')
     elif num % 5 == 0:
-        cprint('Buzz', 'green')
+        cprint('Buzz', 'yellow')
     else:
         print(num)
